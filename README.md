@@ -4,6 +4,7 @@
 My name is Leonardo. I'm a Front-End Developer, looking to become a Full Stack. Passionate about knowledge and innovation.
 
 ⭐ Volunteer teacher in a study group called ngDevs, with a focus on Angular.
+
 ⭐ Volunteer at 9sot as Dev Front-end.
 
 ⭐ Always looking for the next StartupWeekend.
