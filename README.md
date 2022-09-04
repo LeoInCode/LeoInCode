@@ -2,7 +2,9 @@
 I'm a Backend Developer, and also, a Freelancer. Focused on software quality, TDD, Clean Code and Clean Architecture. Passionate about knowledge and innovation.
 
 ⭐ I was volunteer teacher in a study group called ngDevs, with a focus on Angular.
+
 ⭐ I was volunteer at 9sot as Dev Front-end.
+
 ⭐ I've being work like as Freelancer in some projects with Node.
 
 ## My Skills from Developer
@@ -31,6 +33,6 @@ I'm a Backend Developer, and also, a Freelancer. Focused on software quality, TD
 
 ## ⭐ GitHub Stats
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=LeoInCode&show_icons=true&theme=radical" alt="LeoInCode's github stats" width="400px"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoInCode&layout=compact&show_icons=true&theme=radical" alt="LeoInCode's github stats" width="250px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=LeoInCode&show_icons=true&theme=radical" alt="LeoInCode's github stats" width="500px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoInCode&layout=compact&show_icons=true&theme=radical" alt="LeoInCode's github stats" width="300px"/>
   </p>
