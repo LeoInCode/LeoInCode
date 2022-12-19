@@ -52,7 +52,7 @@ I'm a Computer Scientist, Backend Developer, and also, a Freelancer. Focused on 
 ### Network
 
 <a href="https://www.linkedin.com/in/leonardo-mendes-s553" alt="Linkedin">
-  ![LinkedIn](https://img.shields.io/badge/Linkedin-007ACC?style=for-the-badge&logo=linkedin&logoColor=white)
+   <img src="https://img.shields.io/badge/-LinkedIn-007ACC?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>
 </a>
 
 
