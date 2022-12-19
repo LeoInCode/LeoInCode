@@ -51,7 +51,9 @@ I'm a Computer Scientist, Backend Developer, and also, a Freelancer. Focused on 
 
 ### Network
 
-![LinkedIn](https://img.shields.io/badge/Linkedin-007ACC?style=for-the-badge&logo=linkedin&logoColor=white)
+<a href="https://www.linkedin.com/in/leonardo-mendes-s553" alt="Linkedin">
+  ![LinkedIn](https://img.shields.io/badge/Linkedin-007ACC?style=for-the-badge&logo=linkedin&logoColor=white)
+</a>
 
 
 ## ⭐ GitHub Stats
