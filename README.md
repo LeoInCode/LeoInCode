@@ -30,7 +30,7 @@ I'm a Computer Scientist, Backend Developer, and also, a Freelancer. Focused on 
 
 ### Frameworks
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![NestJS](https://img.shields.io/badge/Bootstrap-FF0000?style=for-the-badge&logo=nestjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-FF0000?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
