@@ -20,33 +20,33 @@ I'm a Computer Scientist, Backend Developer, and also, a Freelancer. Focused on 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-E44C30?style=for-the-badge&logo=gitlab&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/AzureDevOps-00599C?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-00599C?style=for-the-badge&logo=azuredevops&logoColor=white)
 
 ### Tasks Management
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)
 ![Jira](https://img.shields.io/badge/JIRA-007ACC?style=for-the-badge&logo=Jira&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/AzureDevOps-00599C?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-00599C?style=for-the-badge&logo=azuredevops&logoColor=white)
 
 ### Frameworks
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![NestJS](https://img.shields.io/badge/NestJS-FF0000?style=for-the-badge&logo=nestjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/Nest_JS-FF0000?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/PostgreSQL-007ACC?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-007ACC?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Softwares
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Insomnia](https://img.shields.io/badge/INSOMNIA-563D7C?style=for-the-badge&logo=insomnia&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-563D7C?style=for-the-badge&logo=insomnia&logoColor=white)
 
 ### Topics
 ![TDD](https://img.shields.io/badge/TDD-009000?style=for-the-badge&logo=tdd&logoColor=white)
-![Design Patterns](https://img.shields.io/badge/Designpatterns-00599C?style=for-the-badge&logo=desingpatterns&logoColor=white)
-![Clean Code](https://img.shields.io/badge/CleanCode-007ACC?style=for-the-badge&logo=cleancode&logoColor=white)
-![Clean Architecture](https://img.shields.io/badge/CleanArchitecture-050038?style=for-the-badge&logo=cleanarchitecture&logoColor=white)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-00599C?style=for-the-badge&logo=desingpatterns&logoColor=white)
+![Clean Code](https://img.shields.io/badge/Clean_Code-007ACC?style=for-the-badge&logo=cleancode&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-050038?style=for-the-badge&logo=cleanarchitecture&logoColor=white)
 
 
 ### Network
