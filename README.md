@@ -1,7 +1,7 @@
 Formado em Ciência da Computação pela URI-Santiago.
 Bolsista de Iniciação Ciêntifica com Artigos e Resumos publicados em Eventos Ciêntificos.
 
-Desenvolver Backend há quase 4 anos.
+Desenvolver Backend há aproximadamente 4 anos.
 Focado em Qualidade de Software, boas práticas, e na evolução.
 
 - Experiência como Desenvolver e Líder Técnico em Ecommerces, trabalhando em integrações com Oracle Commerce Cloud. (NodeJS, TypesScript, Redis, Postgres, Azure, OCC)
